@@ -1,0 +1,26 @@
+_repo: Lesson-for-Today_66151
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nydahl, Joel
+    alias: Hale, J. H.
+    gutenberg_agent_id: '53657'
+    url: http://www.gutenberg.org/2009/agents/53657
+description: ''
+gutenberg_issued: '2021-08-27'
+identifiers:
+  gutenberg: '66151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Post-apocalyptic fiction'
+- !lcsh 'Mothers and sons -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Lesson for Today
+url: http://www.gutenberg.org/ebooks/66151
